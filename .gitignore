@@ -74,11 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 
-
-# Assets
-**/Assets/*
-**/PN_interactiveSpruceForest/**
-**/SoulCave/**
-
 **/Megascans
 
