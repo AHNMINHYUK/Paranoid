@@ -1,0 +1,594 @@
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 0
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 1
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 2
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 3
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 4
+"../../../Engine/Content/MapTemplates/TilingNoise05.uasset" 5
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_01/T_Quarry_Ground_Gravel_01_A.uasset" 6
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_01/T_Quarry_Ground_Gravel_01_D.uasset" 7
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_01/T_Quarry_Ground_Gravel_01_N.uasset" 8
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_01/T_Quarry_Ground_Gravel_01_R.uasset" 9
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_02/T_Quarry_Ground_Gravel_02_A.uasset" 10
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_02/T_Quarry_Ground_Gravel_02_D.uasset" 11
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_02/T_Quarry_Ground_Gravel_02_N.uasset" 12
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_02/T_Quarry_Ground_Gravel_02_R.uasset" 13
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_03/T_Quarry_Ground_Gravel_03_A.uasset" 14
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_03/T_Quarry_Ground_Gravel_03_D.uasset" 15
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_03/T_Quarry_Ground_Gravel_03_N.uasset" 16
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_03/T_Quarry_Ground_Gravel_03_R.uasset" 17
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Materials/M_Terrain_01.uasset" 18
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Materials/MI_Terrain_01.uasset" 19
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Materials/MI_Terrain_02.uasset" 20
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/DryBranches_01/T_DryBranches_01_H.uasset" 21
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_01/T_Limestone_Rocks_01_H.uasset" 22
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_02/T_Limestone_Rocks_02_H.uasset" 23
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_03/T_Limestone_Rocks_03_H.uasset" 24
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_04/T_Limestone_Rocks_04_H.uasset" 25
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_05/T_Limestone_Rocks_05_H.uasset" 26
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_06/T_Limestone_Rocks_06_H.uasset" 27
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_07/T_Limestone_Rocks_07_H.uasset" 28
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rubble_01/T_Limestone_Rubble_01_H.uasset" 29
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_01/T_Limestone_Slab_01_H.uasset" 30
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_02/T_Limestone_Slab_02_H.uasset" 31
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_03/T_Limestone_Slab_03_H.uasset" 32
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_01/T_Quarry_Cliff_01_D.uasset" 33
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_02/T_Quarry_Cliff_02_D.uasset" 34
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_03/T_Quarry_Cliff_03_D.uasset" 35
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_04/T_Quarry_Cliff_04_D.uasset" 36
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_05/T_Quarry_Cliff_05_D.uasset" 37
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_06/T_Quarry_Cliff_06_D.uasset" 38
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_07/T_Quarry_Cliff_07_D.uasset" 39
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_08/T_Quarry_Cliff_08_D.uasset" 40
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_09/T_Quarry_Cliff_09_D.uasset" 41
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_10/T_Quarry_Cliff_10_D.uasset" 42
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_11/T_Quarry_Cliff_11_D.uasset" 43
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_12/T_Quarry_Cliff_12_D.uasset" 44
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_13/T_Quarry_Cliff_13_D.uasset" 45
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_14/T_Quarry_Cliff_14_D.uasset" 46
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_15/T_Quarry_Cliff_15_D.uasset" 47
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_16/T_Quarry_Cliff_16_D.uasset" 48
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_01/T_Quarry_Cliff_Detail_01_D.uasset" 49
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_02/T_Quarry_Cliff_Detail_02_D.uasset" 50
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_03/T_Quarry_Cliff_Detail_03_D.uasset" 51
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_04/T_Quarry_Cliff_Detail_04_D.uasset" 52
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Outcrop_01/T_Quarry_Outcrop_01_D.uasset" 53
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Thai_Beach_Branch_01/T_Thai_Beach_Branch_01_D.uasset" 54
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Tree_Branch_01/paFru_4K_Displacement.uasset" 55
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/3dplant_Thatching_Grass_AO.uasset" 56
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/3dplant_Thatching_Grass_Bump.uasset" 57
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/3dplant_Thatching_Grass_Cavity.uasset" 58
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/3dplant_Thatching_Grass_Displacement.uasset" 59
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/3dplant_Thatching_Grass_Gloss.uasset" 60
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/3dplant_Thatching_Grass_Specular.uasset" 61
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 62
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 63
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 64
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 65
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 66
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/MSPresets/Foliage_Material/Foliage_Material.uasset" 67
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/Billboards/T_Thatching_Grass_01_A.uasset" 68
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/Billboards/T_Thatching_Grass_01_N.uasset" 69
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/Billboards/T_Thatching_Grass_01_O.uasset" 70
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/Billboards/T_Thatching_Grass_01_R.uasset" 71
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/Billboards/T_Thatching_Grass_01_T.uasset" 72
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/Billboards/MI_Thatching_Grass_01.uasset" 73
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/3dplant_Thatching_Grass_Albedo.uasset" 74
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/3dplant_Thatching_Grass_Normal.uasset" 75
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/3dplant_Thatching_Grass_Opacity.uasset" 76
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/3dplant_Thatching_Grass_Roughness.uasset" 77
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/3dplant_Thatching_Grass_Translucency.uasset" 78
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/Thatching_Grass_00_inst.uasset" 79
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_01.uasset" 80
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_02.uasset" 81
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_03.uasset" 82
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_04.uasset" 83
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_05.uasset" 84
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_06.uasset" 85
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_07.uasset" 86
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_08.uasset" 87
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_09.uasset" 88
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_10.uasset" 89
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_11.uasset" 90
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_12.uasset" 91
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_13.uasset" 92
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_14.uasset" 93
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_15.uasset" 94
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_16.uasset" 95
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_17.uasset" 96
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_18.uasset" 97
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_19.uasset" 98
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Plants/Thatching_Grass_01/SM_Thatching_Grass_20.uasset" 99
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 100
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 101
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 102
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 103
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 104
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 105
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 106
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 107
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 108
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/MSPresets/Decal_MasterMaterial/Decal_MasterMaterial.uasset" 109
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_01/MI_Arid_Debris_01.uasset" 110
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_01/T_Arid_Debris_01_A.uasset" 111
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_01/T_Arid_Debris_01_AO.uasset" 112
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_01/T_Arid_Debris_01_D.uasset" 113
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_01/T_Arid_Debris_01_N.uasset" 114
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_01/T_Arid_Debris_01_O.uasset" 115
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_01/T_Arid_Debris_01_R.uasset" 116
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_01/T_Arid_Debris_01_T.uasset" 117
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_02/MI_Arid_Debris_02.uasset" 118
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_02/T_Arid_Debris_02_A.uasset" 119
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_02/T_Arid_Debris_02_AO.uasset" 120
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_02/T_Arid_Debris_02_D.uasset" 121
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_02/T_Arid_Debris_02_N.uasset" 122
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_02/T_Arid_Debris_02_O.uasset" 123
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_02/T_Arid_Debris_02_R.uasset" 124
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Atlases/Arid_Debris_02/T_Arid_Debris_02_T.uasset" 125
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 126
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 127
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 128
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 129
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 130
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 131
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 132
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 133
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldAlignedNormals_HighQuality.uasset" 134
+"../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" 135
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedNormal.uasset" 136
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 137
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Rock_Cliff_01/T_Quarry_Rock_Cliff_01_N.uasset" 138
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/MSPresets/MSTextures/Albedo.uasset" 139
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/MSPresets/MSTextures/Normal.uasset" 140
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/MSPresets/MSTextures/Roughness.uasset" 141
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset" 142
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_01/MI_Quarry_Ground_Gravel_01.uasset" 143
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_01/T_Quarry_Ground_Gravel_01_AO.uasset" 144
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_02/MI_Quarry_Ground_Gravel_02.uasset" 145
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_02/T_Quarry_Ground_Gravel_02_AO.uasset" 146
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_03/MI_Quarry_Ground_Gravel_03.uasset" 147
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Ground_Gravel_03/T_Quarry_Ground_Gravel_03_AO.uasset" 148
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Rock_Cliff_01/MI_Quarry_Rock_Cliff_01.uasset" 149
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Rock_Cliff_01/T_Quarry_Rock_Cliff_01_A.uasset" 150
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Rock_Cliff_01/T_Quarry_Rock_Cliff_01_AO.uasset" 151
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Rock_Cliff_01/T_Quarry_Rock_Cliff_01_D.uasset" 152
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/Surfaces/Quarry_Rock_Cliff_01/T_Quarry_Rock_Cliff_01_R.uasset" 153
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/MSPresets/MSTextures/AO.uasset" 154
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/MSPresets/MSTextures/Displacement.uasset" 155
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/MSPresets/MSTextures/Metalness.uasset" 156
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/MSPresets/MSTextures/noise_mask.uasset" 157
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/MSPresets/MSTextures/noise_normal.uasset" 158
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 159
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 160
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 161
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 162
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 163
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 164
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 165
+"../../../Engine/Content/BasicShapes/Cone.uasset" 166
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 167
+"../../../Engine/Content/BasicShapes/Plane.uasset" 168
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 169
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 170
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 171
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 172
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 173
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 174
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 175
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 176
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 177
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 178
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 179
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 180
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 181
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 182
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 183
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 184
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 185
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 186
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 187
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 188
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 189
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 190
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 191
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 192
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 193
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 194
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 195
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 196
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 197
+"../../../Engine/Content/EditorResources/S_Note.uasset" 198
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 199
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 200
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 201
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 202
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 203
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 204
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 205
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 206
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 207
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 208
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 209
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 210
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 211
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 212
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 213
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 214
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 215
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 216
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 217
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 218
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 219
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 220
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 221
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 222
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 223
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 224
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 225
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 226
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 227
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 228
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 229
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 230
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 231
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 232
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 233
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 234
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 235
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 236
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 237
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 238
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 239
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 240
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 241
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 242
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 243
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 244
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 245
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 246
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 247
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 248
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 249
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 250
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 251
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 252
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 253
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 254
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 255
+"../../../Engine/Content/EngineResources/Black.uasset" 256
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 257
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 258
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 259
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 260
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 261
+"../../../Engine/Content/EngineSounds/Master.uasset" 262
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 263
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 264
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 265
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 266
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 267
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 268
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 269
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 270
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 271
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 272
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 273
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 274
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 275
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 277
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 281
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 282
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 283
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 284
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 285
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 286
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 287
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 288
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 289
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 290
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 291
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 292
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 293
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 294
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 295
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 296
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 297
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 298
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 299
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 300
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 301
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 302
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 303
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 304
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 305
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 306
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 307
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 308
+"../../Plugins/Compositing/Composure/Content/Materials/ChromaKeying/Bias.uasset" 309
+"../../Plugins/Compositing/Composure/Content/Materials/ChromaKeying/MF_KeyColorMask.uasset" 310
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothStep.uasset" 311
+"../../Plugins/Compositing/Composure/Content/Materials/Compositing/Radial.uasset" 312
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 313
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Chromakeying/DespillByAvg.uasset" 314
+"../../Plugins/Compositing/Composure/Content/Materials/ChromaKeying/M_SinglePassChromaKeyer.uasset" 315
+"../../Plugins/Compositing/Composure/Content/Materials/Compositing/PreMult.uasset" 316
+"../../Plugins/Compositing/Composure/Content/Materials/Compositing/UnpreMult.uasset" 317
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Chromakeying/RGBtoHSV.uasset" 318
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 319
+"../../Plugins/Compositing/Composure/Content/Materials/ChromaKeying/M_SinglePassDespill.uasset" 320
+"../../Plugins/Compositing/Composure/Content/Materials/Compositing/M_AlphaScale.uasset" 321
+"../../Plugins/Compositing/Composure/Content/Materials/Media/M_StaticVideoPlateDebug.uasset" 322
+"../../Plugins/Compositing/Composure/Content/Materials/Media/T_EmptyMediaTexture.uasset" 323
+"../../Plugins/Compositing/Composure/Content/Materials/Media/M_VideoPlateDefault.uasset" 324
+"../../Plugins/Compositing/Composure/Content/Materials/PassSetup/ComposureBeforeTranslucencySetBlack.uasset" 325
+"../../Plugins/Compositing/Composure/Content/Materials/PassSetup/ComposureSimpleSetupMaterial.uasset" 326
+"../../Plugins/Compositing/Composure/Content/Materials/ReplaceTonemapper/ComposureReplaceTonemapperByTexture.uasset" 327
+"../../Plugins/Compositing/Composure/Content/Materials/ReplaceTonemapper/ComposureReplaceTonemapperComposeBloom.uasset" 328
+"../../Plugins/Compositing/Composure/Content/Textures/Debug/T_CompilerError.uasset" 329
+"../../Plugins/Compositing/Composure/Content/Textures/Debug/T_DisabledElement.uasset" 330
+"../../Plugins/Compositing/Composure/Content/Textures/Debug/T_EmptyElement.uasset" 331
+"../../Plugins/Compositing/Composure/Content/Textures/Debug/T_SuspendedElement.uasset" 332
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 333
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 334
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 335
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 336
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 337
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 338
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 339
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 340
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 341
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 342
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/DryBranches_01/T_DryBranches_01_A.uasset" 343
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/DryBranches_01/T_DryBranches_01_N.uasset" 344
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/DryBranches_01/T_DryBranches_01_R.uasset" 345
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/DryBranches_01/MI_DryBranches_01.uasset" 346
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Thai_Beach_Branch_01/T_Thai_Beach_Branch_01.uasset" 347
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Thai_Beach_Branch_01/T_Thai_Beach_Branch_01_A.uasset" 348
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Thai_Beach_Branch_01/T_Thai_Beach_Branch_01_R.uasset" 349
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Thai_Beach_Branch_01/MI_Thai_Beach_Branch_01.uasset" 350
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Tree_Branch_01/paFru_4K_Albedo.uasset" 351
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Tree_Branch_01/paFru_4K_NormalLOD0.uasset" 352
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Tree_Branch_01/paFru_4K_Roughness.uasset" 353
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Tree_Branch_01/Tree_Branch_00_inst.uasset" 354
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_01/SM_Limestone_Cliff_Large_01_Debris.uasset" 355
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_02/T_Limestone_Rocks_02_A.uasset" 356
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_02/T_Limestone_Rocks_02_N.uasset" 357
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_02/T_Limestone_Rocks_02_R.uasset" 358
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_02/MI_Limestone_Rocks_02.uasset" 359
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_03/T_Limestone_Rocks_03_A.uasset" 360
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_03/T_Limestone_Rocks_03_N.uasset" 361
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_03/T_Limestone_Rocks_03_R.uasset" 362
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_03/MI_Limestone_Rocks_03.uasset" 363
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_04/T_Limestone_Rocks_04_A.uasset" 364
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_04/T_Limestone_Rocks_04_N.uasset" 365
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_04/T_Limestone_Rocks_04_R.uasset" 366
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_04/MI_Limestone_Rocks_04.uasset" 367
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_05/T_Limestone_Rocks_05_A.uasset" 368
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_05/T_Limestone_Rocks_05_N.uasset" 369
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_05/T_Limestone_Rocks_05_R.uasset" 370
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_05/MI_Limestone_Rocks_05.uasset" 371
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_06/T_Limestone_Rocks_06_A.uasset" 372
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_06/T_Limestone_Rocks_06_N.uasset" 373
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_06/T_Limestone_Rocks_06_R.uasset" 374
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_06/MI_Limestone_Rocks_06.uasset" 375
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_07/T_Limestone_Rocks_07_A.uasset" 376
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_07/T_Limestone_Rocks_07_N.uasset" 377
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_07/T_Limestone_Rocks_07_R.uasset" 378
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_07/MI_Limestone_Rocks_07.uasset" 379
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rubble_01/T_Limestone_Rubble_01_A.uasset" 380
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rubble_01/T_Limestone_Rubble_01_N.uasset" 381
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rubble_01/T_Limestone_Rubble_01_R.uasset" 382
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rubble_01/MI_Limestone_Rubble_01.uasset" 383
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_01/SM_Limestone_Cliff_Large_01_DetailRocks.uasset" 384
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_01/SM_Limestone_Cliff_Large_01_Foliage.uasset" 385
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_01/T_Quarry_Cliff_01_A.uasset" 386
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_01/T_Quarry_Cliff_01_N.uasset" 387
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_01/T_Quarry_Cliff_01_R.uasset" 388
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_01/MI_Quarry_Cliff_01.uasset" 389
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_02/T_Quarry_Cliff_02_A.uasset" 390
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_02/T_Quarry_Cliff_02_N.uasset" 391
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_02/T_Quarry_Cliff_02_R.uasset" 392
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_02/MI_Quarry_Cliff_02.uasset" 393
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_06/T_Quarry_Cliff_06_A.uasset" 394
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_06/T_Quarry_Cliff_06_N.uasset" 395
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_06/T_Quarry_Cliff_06_R.uasset" 396
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_06/MI_Quarry_Cliff_06.uasset" 397
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_07/T_Quarry_Cliff_07_A.uasset" 398
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_07/T_Quarry_Cliff_07_N.uasset" 399
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_07/T_Quarry_Cliff_07_R.uasset" 400
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_07/MI_Quarry_Cliff_07.uasset" 401
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_08/T_Quarry_Cliff_08_A.uasset" 402
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_08/T_Quarry_Cliff_08_N.uasset" 403
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_08/T_Quarry_Cliff_08_R.uasset" 404
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_08/MI_Quarry_Cliff_08.uasset" 405
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_09/T_Quarry_Cliff_09.uasset" 406
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_09/T_Quarry_Cliff_09_N.uasset" 407
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_09/T_Quarry_Cliff_09_R.uasset" 408
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_09/MI_Quarry_Cliff_09.uasset" 409
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_11/T_Quarry_Cliff_11_A.uasset" 410
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_11/T_Quarry_Cliff_11_N.uasset" 411
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_11/T_Quarry_Cliff_11_R.uasset" 412
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_11/MI_Quarry_Cliff_11.uasset" 413
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_14/T_Quarry_Cliff_14_A.uasset" 414
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_14/T_Quarry_Cliff_14_N.uasset" 415
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_14/T_Quarry_Cliff_14_R.uasset" 416
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_14/MI_Quarry_Cliff_14.uasset" 417
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_04/T_Quarry_Cliff_Detail_04_A.uasset" 418
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_04/T_Quarry_Cliff_Detail_04_N.uasset" 419
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_04/T_Quarry_Cliff_Detail_04_R.uasset" 420
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_04/MI_Quarry_Cliff_Detail_04.uasset" 421
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Outcrop_01/T_Quarry_Outcrop_01_A.uasset" 422
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Outcrop_01/T_Quarry_Outcrop_01_N.uasset" 423
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Outcrop_01/T_Quarry_Outcrop_01_R.uasset" 424
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Outcrop_01/MI_Quarry_Outcrop_01.uasset" 425
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_01/SM_Limestone_Cliff_Large_01_LargeRocks.uasset" 426
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Blueprints/BP_Limestone_Cliff_Large_01.uasset" 427
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_02/SM_Limestone_Cliff_Large_02_Debris.uasset" 428
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_02/SM_Limestone_Cliff_Large_02_DetailRocks.uasset" 429
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_02/SM_Limestone_Cliff_Large_02_Foliage.uasset" 430
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_02/SM_Limestone_Cliff_Large_02_LargeRocks.uasset" 431
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Blueprints/BP_Limestone_Cliff_Large_02.uasset" 432
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_03/SM_Limestone_Cliff_Large_03_Debris.uasset" 433
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_03/SM_Limestone_Cliff_Large_03_DetailRocks.uasset" 434
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_03/SM_Limestone_Cliff_Large_03_Foliage.uasset" 435
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_10/T_Quarry_Cliff_10_A.uasset" 436
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_10/T_Quarry_Cliff_10_N.uasset" 437
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_10/T_Quarry_Cliff_10_R.uasset" 438
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_10/MI_Quarry_Cliff_10.uasset" 439
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_03/SM_Limestone_Cliff_Large_03_LargeRocks.uasset" 440
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Blueprints/BP_Limestone_Cliff_Large_03.uasset" 441
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_04/SM_Limestone_Cliff_Large_04_DetailRocks.uasset" 442
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_04/SM_Limestone_Cliff_Large_04_Foliage.uasset" 443
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_16/T_Quarry_Cliff_16_A.uasset" 444
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_16/T_Quarry_Cliff_16_N.uasset" 445
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_16/T_Quarry_Cliff_16_R.uasset" 446
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_16/MI_Quarry_Cliff_16.uasset" 447
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Large_04/SM_Limestone_Cliff_Large_04_LargeRocks.uasset" 448
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Blueprints/BP_Limestone_Cliff_Large_04.uasset" 449
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Mid_01/SM_Limestone_Cliff_Mid_01_DetailRocks.uasset" 450
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Mid_01/SM_Limestone_Cliff_Mid_01_Foliage.uasset" 451
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_01/T_Limestone_Slab_01_A.uasset" 452
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_01/T_Limestone_Slab_01_N.uasset" 453
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_01/T_Limestone_Slab_01_R.uasset" 454
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_01/MI_Limestone_Slab_01.uasset" 455
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_03/T_Limestone_Slab_03_A.uasset" 456
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_03/T_Limestone_Slab_03_N.uasset" 457
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_03/T_Limestone_Slab_03_R.uasset" 458
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_03/MI_Limestone_Slab_03.uasset" 459
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_05/T_Quarry_Cliff_05_A.uasset" 460
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_05/T_Quarry_Cliff_05_N.uasset" 461
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_05/T_Quarry_Cliff_05_R.uasset" 462
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_05/MI_Quarry_Cliff_05.uasset" 463
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Mid_01/SM_Limestone_Cliff_Mid_01_LargeRocks.uasset" 464
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Blueprints/BP_Limestone_Cliff_Mid_01.uasset" 465
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_01/T_Limestone_Rocks_01_A.uasset" 466
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_01/T_Limestone_Rocks_01_N.uasset" 467
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_01/T_Limestone_Rocks_01_R.uasset" 468
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_01/MI_Limestone_Rocks_01.uasset" 469
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Mid_02/SM_Limestone_Cliff_Mid_02_DetailRocks.uasset" 470
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Mid_02/SM_Limestone_Cliff_Mid_02_Foliage.uasset" 471
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_12/T_Quarry_Cliff_12_A.uasset" 472
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_12/T_Quarry_Cliff_12_N.uasset" 473
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_12/T_Quarry_Cliff_12_R.uasset" 474
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_12/MI_Quarry_Cliff_12.uasset" 475
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Mid_02/SM_Limestone_Cliff_Mid_02_LargeRocks.uasset" 476
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Blueprints/BP_Limestone_Cliff_Mid_02.uasset" 477
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Mid_03/SM_Limestone_Cliff_Mid_03_DetailRocks.uasset" 478
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Mid_03/SM_Limestone_Cliff_Mid_03_Foliage.uasset" 479
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Mid_03/SM_Limestone_Cliff_Mid_03_LargeRocks.uasset" 480
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Blueprints/BP_Limestone_Cliff_Mid_03.uasset" 481
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Tall_01/SM_Limestone_Cliff_Tall_01_Debris.uasset" 482
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Tall_01/SM_Limestone_Cliff_Tall_01_DetailRocks.uasset" 483
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Tall_01/SM_Limestone_Cliff_Tall_01_Foliage.uasset" 484
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_04/T_Quarry_Cliff_04_A.uasset" 485
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_04/T_Quarry_Cliff_04_N.uasset" 486
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_04/T_Quarry_Cliff_04_R.uasset" 487
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_04/MI_Quarry_Cliff_04.uasset" 488
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_01/T_Quarry_Cliff_Detail_01_A.uasset" 489
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_01/T_Quarry_Cliff_Detail_01_N.uasset" 490
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_01/T_Quarry_Cliff_Detail_01_R.uasset" 491
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_01/MI_Quarry_Cliff_Detail_01.uasset" 492
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_03/T_Quarry_Cliff_Detail_03_A.uasset" 493
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_03/T_Quarry_Cliff_Detail_03_N.uasset" 494
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_03/T_Quarry_Cliff_Detail_03_R.uasset" 495
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_03/MI_Quarry_Cliff_Detail_03.uasset" 496
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Tall_01/SM_Limestone_Cliff_Tall_01_LargeRocks.uasset" 497
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Blueprints/BP_Limestone_Cliff_Tall_01.uasset" 498
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Tall_02/SM_Limestone_Cliff_Tall_02_Debris.uasset" 499
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Tall_02/SM_Limestone_Cliff_Tall_02_DetailRocks.uasset" 500
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Tall_02/SM_Limestone_Cliff_Tall_02_Foliage.uasset" 501
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_Cliff_Tall_02/SM_Limestone_Cliff_Tall_02_LargeRocks.uasset" 502
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Blueprints/BP_Limestone_Cliff_Tall_02.uasset" 503
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_RockPile_01/SM_Limestone_RockPile_01_DetailRocks.uasset" 504
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_RockPile_01/SM_Limestone_RockPile_01_LargeRocks.uasset" 505
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Blueprints/BP_RockPile_01.uasset" 506
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_RockPile_02/SM_Limestone_RockPile_02_DetailRocks.uasset" 507
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_RockPile_02/SM_Limestone_RockPile_02_LargeRocks.uasset" 508
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Blueprints/BP_RockPile_02.uasset" 509
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_RockPile_03/SM_Limestone_RockPile_03_DetailRocks.uasset" 510
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_02/T_Limestone_Slab_02_A.uasset" 511
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_02/T_Limestone_Slab_02_N.uasset" 512
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_02/T_Limestone_Slab_02_R.uasset" 513
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_02/MI_Limestone_Slab_02.uasset" 514
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_13/T_Quarry_Cliff_13_A.uasset" 515
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_13/T_Quarry_Cliff_13_N.uasset" 516
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_13/T_Quarry_Cliff_13_R.uasset" 517
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_13/MI_Quarry_Cliff_13.uasset" 518
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Limestone_RockPile_03/SM_Limestone_RockPile_03_LargeRocks.uasset" 519
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Blueprints/BP_RockPile_03.uasset" 520
+"../../../Engine/Content/EngineSky/M_SkyTimeOfDay.uasset" 521
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Materials/M_Gray.uasset" 522
+"../../../Engine/Content/BasicShapes/Cube.uasset" 523
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 524
+"../../../Engine/Content/EngineResources/GrayTextureCube.uasset" 525
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/DryBranches_01/SM_DryBranches_01.uasset" 526
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/DryBranches_01/SM_DryBranches_02.uasset" 527
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/DryBranches_01/SM_DryBranches_03.uasset" 528
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/DryBranches_01/SM_DryBranches_04.uasset" 529
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/DryBranches_01/SM_DryBranches_05.uasset" 530
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/DryBranches_01/SM_DryBranches_06.uasset" 531
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/DryBranches_01/SM_DryBranches_07.uasset" 532
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/DryBranches_01/SM_DryBranches_08.uasset" 533
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/DryBranches_01/SM_DryBranches_09.uasset" 534
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_01/SM_Limestone_Rocks_01.uasset" 535
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_02/SM_Limestone_Rocks_02.uasset" 536
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_03/SM_Limestone_Rocks_03.uasset" 537
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_04/SM_Limestone_Rocks_04.uasset" 538
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_05/SM_Limestone_Rocks_05.uasset" 539
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_06/SM_Limestone_Rocks_06.uasset" 540
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rocks_07/SM_Limestone_Rocks_07.uasset" 541
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Rubble_01/SM_Limestone_Rubble_01.uasset" 542
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_01/SM_Limestone_Slab_01.uasset" 543
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_02/SM_Limestone_Slab_02.uasset" 544
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Limestone_Slab_03/SM_Limestone_Slab_03.uasset" 545
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_01/SM_Quarry_Cliff_01.uasset" 546
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_02/SM_Quarry_Cliff_02.uasset" 547
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_03/T_Quarry_Cliff_03_A.uasset" 548
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_03/T_Quarry_Cliff_03_N.uasset" 549
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_03/T_Quarry_Cliff_03_R.uasset" 550
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_03/MI_Quarry_Cliff_03.uasset" 551
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_03/SM_Quarry_Cliff_03.uasset" 552
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_04/SM_Quarry_Cliff_04.uasset" 553
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_05/SM_Quarry_Cliff_05.uasset" 554
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_06/SM_Quarry_Cliff_06.uasset" 555
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_07/SM_Quarry_Cliff_07.uasset" 556
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_08/SM_Quarry_Cliff_08.uasset" 557
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_09/SM_Quarry_Cliff_09.uasset" 558
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_10/SM_Quarry_Cliff_10.uasset" 559
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_11/SM_Quarry_Cliff_11.uasset" 560
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_12/SM_Quarry_Cliff_12.uasset" 561
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_13/SM_Quarry_Cliff_13.uasset" 562
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_14/SM_Quarry_Cliff_14.uasset" 563
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_15/T_Quarry_Cliff_15_A.uasset" 564
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_15/T_Quarry_Cliff_15_N.uasset" 565
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_15/T_Quarry_Cliff_15_R.uasset" 566
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_15/MI_Quarry_Cliff_15.uasset" 567
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_15/SM_Quarry_Cliff_15.uasset" 568
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_16/SM_Quarry_Cliff_16.uasset" 569
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_01/SM_Quarry_Cliff_Detail_01.uasset" 570
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_02/T_Quarry_Cliff_Detail_02_A.uasset" 571
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_02/T_Quarry_Cliff_Detail_02_N.uasset" 572
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_02/T_Quarry_Cliff_Detail_02_R.uasset" 573
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_02/MI_Quarry_Cliff_Detail_02.uasset" 574
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_02/SM_Quarry_Cliff_Detail_02.uasset" 575
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_03/SM_Quarry_Cliff_Detail_03.uasset" 576
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Cliff_Detail_04/SM_Quarry_Cliff_Detail_04.uasset" 577
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Quarry_Outcrop_01/SM_Quarry_Outcrop_01.uasset" 578
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Thai_Beach_Branch_01/SM_Thai_Beach_Branch_01.uasset" 579
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Megascans/3D_Assets/Tree_Branch_01/paFru_LOD0.uasset" 580
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Maps/QuarryCollections_Assets.umap" 581
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 582
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/MakeVectorsOrthogonal.uasset" 583
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 584
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/LinearSine.uasset" 585
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/LowResBlurredNoise.uasset" 586
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlowMaps_Simple.uasset" 587
+"../../../Engine/Content/EditorShapes/Textures/T_ShapeNormal.uasset" 588
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Materials/M_Water.uasset" 589
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Geometry/Water_Plane_01/SM_WaterPlane_01.uasset" 590
+"../../../../../../Users/Jack/Documents/Unreal Projects/QuarryCollections/Content/Maps/QuarryCollections_Canyon_Example.umap" 591
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 592
+"../../../Engine/Content/Maps/Entry.umap" 593
