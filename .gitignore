@@ -73,7 +73,13 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-
-**/Megascans
+# Assets
+**/Megascans/**
+**/WaterMaterials/**
+**/SoulCave/**
+**/PN_OpenWorldFoliage/**
+**/PN_interactiveSpruceForest/**
+**/PhotoR_Backgrounds/**
+**/Geometry/**
 
 정다민/Paranoid02/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset
