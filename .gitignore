@@ -78,3 +78,9 @@ DerivedDataCache/*
 **/Megascans/**
 Damin/Paranoid02/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset
 **/M5VFXVOL2/**
+
+# Package Files
+Damin/Paranoid02/Binaries/*
+Damin/Paranoid02/Build/*
+Damin/Paranoid02/Windows/*
+
